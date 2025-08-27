@@ -2,4 +2,4 @@
 
 **Programador Fullstack**
 
-**Deselvolvidor de sistemas - SENAI**
+**Deselvolvimento de sistemas - SENAI**
